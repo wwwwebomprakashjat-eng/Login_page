@@ -4,7 +4,7 @@
     "username": "omprakash",
     "password": "78939",
     "expiresAt": "2025-12-31",
-    "allowOffline": flase
+    "allowOffline": false
   },
   {
     "id": "6d95fal7c7e40bea",
