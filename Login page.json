@@ -9,7 +9,7 @@
 
   {
     "id": "b7fcd04f7c59af3d",
-    ""username": "user2",
+    "username": "user2",
     "password": "pass2",
     "expiresAt": "2025-11-30",
     "allowOffline": false
