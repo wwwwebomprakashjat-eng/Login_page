@@ -24,6 +24,17 @@
         "Allowoffline": true
     },
 {
+        "device_id": "536c4838078d8ec1",
+        "key": "nmms1989",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },{
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "device123",
         "key": "key12345",
         "expirydate": "31-12-2025",
