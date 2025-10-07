@@ -1,5 +1,12 @@
 [
   {
+    "id": "b7fcd04f7c59af3d",
+    "username": "om Prakash",
+    "password": "789396",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
     "id": "6d95fal7c7e40bea",
     "username": "dpmods",
     "password": "dpmods",
