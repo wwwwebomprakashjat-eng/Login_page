@@ -45,6 +45,14 @@
         "key": "shh265",
         "expirydate": "10-11-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "a99581db6ea4c2ac",
+        "key": "pintu123",
+        "expirydate": "10-11-2025",
+        "Allowoffline": true
     }
+
+
 
 ]
