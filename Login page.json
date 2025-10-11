@@ -82,10 +82,12 @@
         "key": "shakir123",
         "expirydate": "14-11-2025",
         "Allowoffline": true
+    },
+{
+        "device_id": "a644669ac870984c",
+        "key": "raaz123",
+        "expirydate": "10-11-2025",
+        "Allowoffline": true
     }
-    
-
-
-
 
 ]
