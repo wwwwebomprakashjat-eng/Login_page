@@ -5,12 +5,7 @@
         "expirydate": "20-10-2025",
         "Allowoffline": true
     },
-    {
-  "key": "b7fcd04f7c59af3d",
-  "device_id": "op",
-  "expiryhours": 24,
-  "Allowoffline": true
-    },
+    
     {
         "device_id": "735941ed9cb2cbd4",
         "key": "nmms1234",
@@ -102,10 +97,10 @@
         "Allowoffline": true
 },
 {
-        "device_id": "a644669ac870984c",
-        "key": "raj13",
+        "device_id": "b7fcd04f7c59af3d",
+        "key": "op",
         "expirydate": "10-11-2025",
-        "Allowoffline": true
+        "Allowoffline": false
 },
 {
         "device_id": "a644669ac870984c",
