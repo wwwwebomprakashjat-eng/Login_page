@@ -1,9 +1,16 @@
 [
-{
+    {
         "device_id": "b7fcd04f7c59af3d",
         "key": "opjat",
         "expirydate": "25-12-2025",
         "Allowoffline": false,
         "user": "omprakash"
-    }
+    },
+  {
+        "device_id": "e71c8ee380afufeab9e",
+        "key": "54d9c42ffjffce",
+        "expirydate": "03-11-2025",
+        "Allowoffline": false,
+        "user": "sp"
+        }
 ]
