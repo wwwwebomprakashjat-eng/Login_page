@@ -1,9 +1,9 @@
 [
-    {
-        "device_id": ":ab9f9c2647841d40",
-        "key": "nmms123",
-        "expirydate": "20-10-2025",
-        "Allowoffline": false
-    },
-
+{
+        "device_id": "b7fcd04f7c59af3d",
+        "key": "opjat",
+        "expirydate": "25-12-2025",
+        "Allowoffline": false,
+        "user": "omprakash"
+    }
 ]
