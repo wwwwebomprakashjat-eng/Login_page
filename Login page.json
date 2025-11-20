@@ -90,5 +90,12 @@
         "expirydate": "26-11-2025",
         "Allowoffline": false,
         "user": "DJ"
+    },
+        {
+        "device_id": "95cd38944cfbd4fd",
+        "key": "5vvf2fce",
+        "expirydate": "21-11-2025",
+        "Allowoffline": false,
+        "user": "mahendra singh"
     }
 ]
